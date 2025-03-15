@@ -1,5 +1,5 @@
 # Rip-BD-1-sounds-Collection
-Here is the collection of sounds by BD-1 as used in Jedi Fallen Orer
+Here is the collection of sounds by BD-1 as used in Jedi Fallen Order
 # BD-1 Voice Assistant Project
 
 Welcome to the **BD-1 Voice Assistant Project**!  
