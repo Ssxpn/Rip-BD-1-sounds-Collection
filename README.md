@@ -54,8 +54,7 @@ Here are some key tasks where you can assist:
 ## Tech & Tools
 
 ### 🔹 Proposed Approach:
-I plan to use **OpenSmile** to classify BD-1 sounds by emotion.  
-Then, a **script** will fetch an appropriate sound from the corresponding emotional category whenever the user expresses an emotion.
+I plan to use **STT** -> **Local LLM** (llama maybe, looking for a model we can craft and twist to give some personnality) -> **Dictionnary TTS** Identification of some keywords and lenght of the sentence to fetch and produce believable reaction from BD-1.
 
 **If you have other ideas, feel free to share them!**
 
