@@ -40,15 +40,15 @@ Here are some key tasks where you can assist:
 - **Rename files** to reflect their emotional intent while keeping the original numbering:  
   Example: `xxxxxx-AngryBeeps.wav`, `xxxxxx-HappyChirp.wav`  
 - **Sort files** into directories by emotion (Happy, Sad, Angry, etc.).
+- **Important** All modification must be done inside sounds/uncompressed. Then we can run "conversion_all.py" to regenerate the uncompressed folder
 
-### **2. AI Emotion Classification**
-- Implement a classification system (e.g., using **OpenSmile**) to label each sound with an emotion.  
-- Create a mapping where BD-1's responses match user emotions.
 
-### **3. Build the Response System**
-- Write the code to **assemble** shorter sounds into meaningful responses.  
-- Implement logic to **select** the appropriate BD-1 sound based on user input.
+### **2. Build the Response System**
+- Scripts ttsbd1.py and ttsbd1sanswait.py are 2 translator (2nd is tried without wait but not found of it). They work as a TTS with a dictionnary. By studying some keyword in the answer, the program reads a sounds from one of the folder.
 
+### **3. To be done**
+- Assemble longer answer. Find a way to assemble sounds to create a longer answer when the sentence is longer.
+- Ad conversationnal IA (answer from IA will be run throught the TTS)
 ---
 
 ## Tech & Tools
