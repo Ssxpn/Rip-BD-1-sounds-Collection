@@ -3,7 +3,7 @@ import shutil
 import subprocess
 
 # Chemins des dossiers
-base_dir = "C:/Users/PierreGirard/Desktop/BD-1/Rip-BD-1-sounds-Collection/sounds"
+base_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "sounds")
 input_dir = os.path.join(base_dir, "uncompressed")
 output_dir = os.path.join(base_dir, "compressed")
 
