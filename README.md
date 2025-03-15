@@ -18,7 +18,9 @@ The objective of this project is to **build an AI-driven assistant** that respon
 
 For example:  
 - When the user says *"No"*, BD-1 should sound disappointed.  
-- When the user says *"Hello"*, BD-1 should sound happy.  
+- When the user says *"Hello"*, BD-1 should sound happy.
+
+I'll be using and ESP32S3 for this project.
 
 The challenge? **I have no idea how to achieve this yet.**   
 
