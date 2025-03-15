@@ -5,7 +5,8 @@ Here is the collection of sounds by BD-1 as used in Jedi Fallen Orer
 Welcome to the **BD-1 Voice Assistant Project**!  
 This repository aims to create a voice assistant using BD-1’s sound library.
 
-https://th.bing.com/th/id/OIP.Shcaq2sc_Ovxg0BefIrLsAHaLO?rs=1&pid=ImgDetMain
+![BD-1 Sound Project](https://th.bing.com/th/id/OIP.Shcaq2sc_Ovxg0BefIrLsAHaLO?rs=1&pid=ImgDetMain)
+
 
 ⚠️ **Work in Progress:** The database is not yet complete (I still have around 5 hours of audio files to review).
 
